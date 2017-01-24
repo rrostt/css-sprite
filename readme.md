@@ -2,6 +2,8 @@
 
 [![NPM version](https://badge.fury.io/js/css-sprite.svg)](http://badge.fury.io/js/css-sprite) [![Build Status](https://travis-ci.org/aslansky/css-sprite.svg?branch=master)](https://travis-ci.org/aslansky/css-sprite) [![Coverage Status](https://img.shields.io/coveralls/aslansky/css-sprite.svg)](https://coveralls.io/r/aslansky/css-sprite) [![Code Climate](https://codeclimate.com/github/aslansky/css-sprite/badges/gpa.svg)](https://codeclimate.com/github/aslansky/css-sprite) [![Dependencies](https://david-dm.org/aslansky/css-sprite.svg)](https://david-dm.org/aslansky/css-sprite)
 
+This is a fork of [css-sprite](https://github.com/aslansky/css-sprite). Only change is lwip is now 0.0.9 instead of 0.0.6.
+
 > A css sprite generator.
 
 > Generates sprites and proper css files out of a directory of images.
